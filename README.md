@@ -11,15 +11,15 @@ But at the same time, I want to create a program that is more complete than crea
 you can find me on github blog or on linkedin<br>
 
 <p align="center">
-  <a href="https://bumball-maker.github.io/"><img width="32px" alt="GitHub Blog" title="GitHub Blog" src="https://user-images.githubusercontent.com/87287709/191725191-c634a75b-1dbb-4518-bce2-54bb96e2e8ed.png"/></a>
+  <a href="https://bumball-maker.github.io/"><img width="32px" alt="GitHub Blog" title="GitHub Blog" src="https://user-images.githubusercontent.com/87287709/193750506-21b7d99b-431f-4e19-bb08-558fa65a0ce8.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:bigwatermoon@naver.com"><img width="32px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/191726139-49455a2a-25e8-4809-9845-13cba8926343.png"/></a>
+  <a href="mailto:bigwatermoon@naver.com"><img width="32px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/193750295-b367eb8a-8306-4357-82fb-c814a80a10ae.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/seungbin-nam-149601251/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/87287709/191726773-823da87d-3f23-445b-83d7-ded1202043a1.png"/></a>
+  <a href="https://www.linkedin.com/in/seungbin-nam-149601251/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/87287709/193751270-22540400-e82c-47b7-bbed-b8308939d5d8.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.notion.so/BUMBALL_MAKER-b81e0c5ec9de49219f71df747440bbb2"><img width="32px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/87287709/191731335-a0759d06-6d22-4714-a7bc-55c7db8fc5e0.png"></a>
+  <a href="https://www.notion.so/BUMBALL_MAKER-b81e0c5ec9de49219f71df747440bbb2"><img width="32px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/87287709/193751823-1e7664bb-99e8-45d8-88a1-9f42303690ff.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/BumBallMaker"><img width="32px" alt="Coffee" title="Buy me a coffee" src="https://user-images.githubusercontent.com/87287709/191911454-3681e3a2-2d45-41f7-8df1-1e3683e0d81f.png"/></a>
+  <a href="https://www.buymeacoffee.com/BumBallMaker"><img width="32px" alt="Coffee" title="Buy me a coffee" src="https://user-images.githubusercontent.com/87287709/193755014-4825cbaf-3700-453e-b695-8af187723031.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
@@ -137,7 +137,7 @@ you can find me on github blog or on linkedin<br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/87287709/191780377-30a05728-733c-4b48-ada1-777d7b322c87.svg" width="48" height="48" alt="GitHub" />
+        <img src="https://user-images.githubusercontent.com/87287709/193749153-58bd6029-ff47-4c5f-b133-2c69e16b66cd.png" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
